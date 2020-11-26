@@ -8,7 +8,8 @@
 [Method](https://xychic.github.io/files/Method%20Selection%20and%20Planning.pdf)  
 [Risk](http://xychic.github.io/files/Risk%20Assessment%20and%20Mitigation.pdf)  
 [Implementation](https://drive.google.com/file/d/1MrjNDJ-twlbRo36Q-RlpFIDC9wfs4HUA/view?usp=sharing)  
-[ENG1-DragonBoatRace.jar](./files/ENG1-DragonBoatRace.jar)  
+[ENG1-DragonBoatRace.jar](./files/ENG1-DragonBoatRace.jar)
+[Source Code](https://github.com/Xychic/ENG1-DragonBoatRace)  
 
 ## Weekly Snapshots
 
