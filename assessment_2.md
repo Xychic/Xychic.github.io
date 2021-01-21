@@ -4,4 +4,4 @@
 
 
 # Resources  
-[Code Documentation](https://xychic.github.io/docs/)
+[Code Documentation](https://xychic.github.io/files/docs/)
