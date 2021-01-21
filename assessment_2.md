@@ -2,10 +2,6 @@
 
 *This is Engineering Group 14's Dragon Boat Race Project - Taken over from group 15!*
 
-# Hello World!
-
-This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
-
 ## Resources
 
 ### Documentation
