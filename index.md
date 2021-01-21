@@ -20,3 +20,5 @@
 ![image5](https://user-images.githubusercontent.com/72559948/99913930-49651080-2cf2-11eb-93ec-1d8906c1a238.png)
 ![image6](https://user-images.githubusercontent.com/72559948/99913968-8204ea00-2cf2-11eb-98b4-e65bcec0861d.png)
 ![image7](https://user-images.githubusercontent.com/72559948/99913995-a95bb700-2cf2-11eb-9bbb-a5fc2af7afaa.png)
+
+[Click here for assessment 2](https://xychic.github.io/assessment_2)
