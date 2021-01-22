@@ -13,9 +13,9 @@
 [Code Documentation](https://xychic.github.io/files/docs/)
 
 ### Game Files
-[Jar File](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.jar) --Not Updated  
-[Exe Files](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.rar) --Not Updated  
-[Release](https://github.com/JoeWrieden/ENG1Project/releases/latest) --Not Updated  
+[Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.3/DragonBoatRace-1.3.jar)
+[Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.zip)
+[Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.tar.gz)
 
 
 ## Sprint Updates
