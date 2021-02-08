@@ -61,4 +61,42 @@ We have completed our representation of the Concrete Architecture as the Impleme
 <img src="https://user-images.githubusercontent.com/72558704/100144113-35561600-2e8e-11eb-92dc-711e96209e2a.png">  
 
 All the deliverables have been completed and submitted.  
+
+**4/12 - 10/12**
+<img src="https://user-images.githubusercontent.com/72559948/107242253-b059b200-6a23-11eb-9f7d-d05381077e8e.png">
+The first sprint of Assessment 2 involved gathering more information about Requirement Changes and focusing on our organisation. We began discussing how best to alter the architecture of the original groups code.
+
+**11/12 - 17/12**
+<img src="https://user-images.githubusercontent.com/72559948/107242580-09c1e100-6a24-11eb-8523-841a52b38d41.png">
+Write of the Requirement changes for Change Report started and began evaluating changes in architecture
+
+**18/12 - 24/12**
+<img src="https://user-images.githubusercontent.com/72559948/107242851-54dbf400-6a24-11eb-8858-ea49a1720b64.png">
+Continued Requirements write up, will need to finish Requirements after a Team-Customer Meeting in January. Completed Abstract and Concrete Architecture diagrams and implementation of the architecture will start
+
+**25/12 - 31/12**
+<img src="https://user-images.githubusercontent.com/72559948/107243189-ab493280-6a24-11eb-88e4-e088862573b4.png">
+Christmas Week so not much work was completed. Began work on Risk Assessment and Method Selection and Planning documentation. Will continue work with implementing code next sprint.
+
+**01/01 - 07/01**
+<img src="https://user-images.githubusercontent.com/72559948/107243623-18f55e80-6a25-11eb-87c0-e24ed490e241.png">
+Continuing work on Change Report and Code implemention. Have agreed to organise a Team-Customer Meeting next sprint to confirm requirements.
+
+**08/01 - 14/01**
+<img src="https://user-images.githubusercontent.com/72559948/107243943-6b367f80-6a25-11eb-8963-bd3e75abb3f1.png">
+Booked Team-Customer Meeting for 29th January. Continued work on Change Report and Code Implementation.
+
+**15/01 - 21/01**
+<img src="https://user-images.githubusercontent.com/72559948/107244173-a5a01c80-6a25-11eb-90f4-e8cd79393ac5.png">
+Waiting on Team-Customer Meeting to finish Requirements. Aim is to finish documentation on Methods and Risk Assessment next sprint. Work continues on code implementation.
+
+**22/01 - 28/01**
+<img src="https://user-images.githubusercontent.com/72559948/107244760-4b538b80-6a26-11eb-8db1-38e1be989c9e.png">
+Team-Customer Meeting is on the 29th. Waiting for that to finish Requirements and so beginning to consider how to conduct the Software Testing and Continuous Integration Methods documentation. Code implementation continues.
+
+**29/01 - 08/02**
+<img src="https://user-images.githubusercontent.com/72559948/107244974-8bb30980-6a26-11eb-90fa-58260eac3aad.png">
+After Team-Customer Meeting, finished Change Report documentation and implemented any additional features or aspects of code. Began Software Testing 29th January, aim is to be finished by the end of sprint. Continuous Integration method documentation has been completed. 
+
+
   
