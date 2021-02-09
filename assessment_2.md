@@ -5,18 +5,24 @@
 ## Resources
 
 ### Documentation
-[Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf) --Not Updated  
-[Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf) --Not Updated  
-[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf) --Not Updated  
-[Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf) --Not Updated  
-[Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf) --Not Updated  
+[Requirements Specification](https://xychic.github.io/files/PDFs/Requirements.pdf)  
+[Architecture](https://xychic.github.io/files/PDFs/Architecture.pdf)  
+[Method Selection and Planning](https://xychic.github.io/files/PDFs/Method_Selection_and_Planning.pdf)  
+[Risk Assessment](https://xychic.github.io/files/PDFs/Risk.pdf)   
+[Implementation Discussion](https://xychic.github.io/files/PDFs/Implementation.pdf)   
+[Change Report](https://xychic.github.io/files/PDFs/Change_Report.pdf)  
+[Continuous Integration Report](https://xychic.github.io/files/PDFs/Continuous_Integration_Report.pdf)  
+[Software Testing Report](https://xychic.github.io/files/PDFs/Software_Testing_Report.pdf)  
+[Testing Table](https://docs.google.com/spreadsheets/d/15_rYyoHAo4nXYpNe3u5SIG7DMLfzS-30c8r3J0S4swc/edit?usp=sharing)  
+[Code Coverage](https://docs.google.com/spreadsheets/d/1jsk9LAvipGEkugYD3R3E_9gXl9lUgje0srHn3qqnz4k/edit?usp=sharing)  
+[Tracability Matrix](https://docs.google.com/spreadsheets/d/1Izbu1M9j9Wecd2zVZHng7ZLEF7V638fYiO4Wp-FvTwY/edit?usp=sharing)  
+[Unit Test Results](https://xychic.github.io/files/test/)  
 [Code Documentation](https://xychic.github.io/files/docs/)  
-[Unit Test Results](https://xychic.github.io/files/test/)
 
 ### Game Files
-[Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.4/DragonBoatRace-1.4.jar)  
-[Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.4.zip)  
-[Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.4.tar.gz)  
+[Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.5/DragonBoatRace-1.5.jar)  
+[Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.5.zip)  
+[Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.5.tar.gz)  
 
 
 ## Sprint Updates
