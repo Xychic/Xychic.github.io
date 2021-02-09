@@ -6,10 +6,20 @@
 
 ### Documentation
 [Requirements Specification](https://xychic.github.io/files/PDFs/Requirements.pdf)  
+[Requirements Specification - Assessment 1](https://xychic.github.io/files/PDFs/Assessment1/Req1.pdf)  
+
 [Architecture](https://xychic.github.io/files/PDFs/Architecture.pdf)  
+[Architecture - Assessment 1](https://xychic.github.io/files/PDFs/Assessment1/Arch1.pdf)  
+
 [Method Selection and Planning](https://xychic.github.io/files/PDFs/Method_Selection_and_Planning.pdf)  
+[Method Selection and Planning - Assessment 1](https://xychic.github.io/files/PDFs/Assessment1/Plan1.pdf)   
+
 [Risk Assessment](https://xychic.github.io/files/PDFs/Risk.pdf)   
+[Risk Assessment - Assessment 1](https://xychic.github.io/files/PDFs/Assessment1/Risk1.pdf)   
+
 [Implementation Discussion](https://xychic.github.io/files/PDFs/Implementation.pdf)   
+[Implementation Discussion - Assessment 1](https://xychic.github.io/files/PDFs/Assessment1/Impl1.pdf)  
+
 [Change Report](https://xychic.github.io/files/PDFs/Change_Report.pdf)  
 [Continuous Integration Report](https://xychic.github.io/files/PDFs/Continuous_Integration_Report.pdf)  
 [Software Testing Report](https://xychic.github.io/files/PDFs/Software_Testing_Report.pdf)  
@@ -21,8 +31,13 @@
 
 ### Game Files
 [Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.5/DragonBoatRace-1.5.jar)  
+[Jar File - Assessment 1](https://github.com/JoeWrieden/ENG1Project/releases/download/1.2/Dragonboat_Race_v1.2.jar)  
+
 [Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.5.zip)  
+[Source (zip) - Assessment 1](https://github.com/JoeWrieden/ENG1Project/archive/1.2.zip)  
+
 [Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.5.tar.gz)  
+[Source (tar.gz) - Assessment 1](https://github.com/JoeWrieden/ENG1Project/archive/1.2.tar.gz)  
 
 
 ## Sprint Updates
