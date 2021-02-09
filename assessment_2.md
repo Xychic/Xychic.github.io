@@ -13,9 +13,9 @@
 [Code Documentation](https://xychic.github.io/files/docs/)
 
 ### Game Files
-[Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.3/DragonBoatRace-1.3.jar)  
-[Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.zip)  
-[Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.tar.gz)  
+[Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.4/DragonBoatRace-1.4.jar)  
+[Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.4.zip)  
+[Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.4.tar.gz)  
 
 
 ## Sprint Updates
